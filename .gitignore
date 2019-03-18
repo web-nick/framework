@@ -1,0 +1,4 @@
+/vendor/*
+!webnick
+vendor/webnick/*
+!framework
