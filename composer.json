@@ -4,6 +4,6 @@
   "license": "MIT",
   "require": {
     "php": "^7.1",
-    "webnick/helpers": "*"
+    "webnick/helpers": "*@dev"
   }
 }

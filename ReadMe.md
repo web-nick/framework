@@ -1,1 +1,3 @@
-Простой, легкий и быстрый MVC фреймворк
+Простой, легкий и быстрый MVC фреймворк.
+
+Установка: composer create-project webnick/framework -s dev
